@@ -119,6 +119,7 @@ The application includes sample courses such as:
 4. View My Courses
 5. Add Student
 6. Exit
+==========================================
 ```
 # 🔄 How the System Works
 View Courses
@@ -169,4 +170,4 @@ The application performs several validations:
 - Prevents dropping a course that the student is not registered for.
 - Prevents duplicate Student IDs.
 
-==========================================
+
