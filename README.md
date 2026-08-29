@@ -160,7 +160,7 @@ The application allows a new student to be added by entering:
 - Student Name
 The system also prevents duplicate Student IDs.
 
-🛡️ Validation
+# 🛡️ Validation
 
 The application performs several validations:
 - Checks whether the student exists.
@@ -170,4 +170,18 @@ The application performs several validations:
 - Prevents dropping a course that the student is not registered for.
 - Prevents duplicate Student IDs.
 
+# 🎓 Learning Outcomes
 
+Through this project, I practiced Java concepts including:
+- Object-Oriented Programming
+- Classes and Objects
+- Encapsulation
+- Constructors
+- Methods
+- ArrayList
+- Loops
+- Switch statements
+- Conditional statements
+- User input handling
+- Data validation
+- Managing relationships between objects
